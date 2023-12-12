@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T18:47:57.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qZWcYJPfxrFZvg2naNK4" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T18:49:27.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KwrelmneNtub_P5wFvAx" version="22.1.7" type="github">
   <diagram name="Страница — 1" id="BRo9CPV3WRWf6h2eIcyI">
-    <mxGraphModel dx="1235" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,85 +8,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-2" target="HQmEL35B6zfz9H3Ji5_Y-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-2" value="Inicializace systému" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="60" width="120" height="20" as="geometry" />
+          <mxGeometry x="300" y="90" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-6" target="HQmEL35B6zfz9H3Ji5_Y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-6" value="while (1)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="150" width="110" height="40" as="geometry" />
+          <mxGeometry x="305" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-9" target="HQmEL35B6zfz9H3Ji5_Y-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-9" value="Blikání LED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="120" height="20" as="geometry" />
+          <mxGeometry x="300" y="240" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-12" target="HQmEL35B6zfz9H3Ji5_Y-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-12" value="Zapnutí A/D převodníku" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-17" target="HQmEL35B6zfz9H3Ji5_Y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-17" value="Výpočet odporu NTC termistoru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-19" target="HQmEL35B6zfz9H3Ji5_Y-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-19" value="Výpočet teploty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="120" height="20" as="geometry" />
+          <mxGeometry x="300" y="430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-24" target="HQmEL35B6zfz9H3Ji5_Y-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-24" value="Rozdělení hodnoty teploty na jednotlivé číslice&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-26" target="HQmEL35B6zfz9H3Ji5_Y-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-26" value="Čtení napětí z A/D převodníku" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-31" target="HQmEL35B6zfz9H3Ji5_Y-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-31" value="Odesílání dat do UART (kontrola)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="300" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="470" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-34" target="HQmEL35B6zfz9H3Ji5_Y-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-34" value="Vysílání číslic na příslušné bity pro výstup na displej" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="280" y="550" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="580" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-37" target="HQmEL35B6zfz9H3Ji5_Y-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="650" />
-              <mxPoint x="260" y="650" />
-              <mxPoint x="260" y="170" />
+              <mxPoint x="360" y="680" />
+              <mxPoint x="260" y="680" />
+              <mxPoint x="260" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-37" value="Zdržení 2s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="610" width="120" height="20" as="geometry" />
+          <mxGeometry x="300" y="640" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HQmEL35B6zfz9H3Ji5_Y-40" target="HQmEL35B6zfz9H3Ji5_Y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQmEL35B6zfz9H3Ji5_Y-40" value="Definice proměnných a konstant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="130" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
